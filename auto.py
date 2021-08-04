@@ -1,22 +1,3 @@
-
-
-Skip to content
-Using Gmail with screen readers
-Meet
-New meeting
-Join a meeting
-Hangouts
-
-Conversations
-Get started with Gmail
-Customize your inbox
-Change profile image
-Import contacts and mail
-Get Gmail for mobile
-0 GB of 15 GB used
-Terms · Privacy · Program Policies
-Last account activity: 2 hours ago
-Details
 from selenium import webdriver
 from selenium.webdriver import ActionChains
 from selenium.webdriver.common.keys import Keys
@@ -193,5 +174,3 @@ driver.find_element_by_css_selector(".CodeMirror textarea").send_keys("! wget ht
 driver.find_element_by_css_selector(".fa-play").click()
 driver.find_element_by_css_selector(".run-cell > .fa").click()
 driver.find_element_by_xpath('/html/body/uses-legacy-bootstrap[16]/div/uses-legacy-bootstrap/div/div[3]/div/a[2]').click()
-autopy.txt
-Displaying autopy.txt.
